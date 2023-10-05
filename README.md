@@ -1,4 +1,4 @@
-![Money machine]([(https://github.com/juditperea/CFGS-DAW-M08/blob/main/gato.jpg)]) 
+[Money machine]([(https://github.com/juditperea/CFGS-DAW-M08/blob/main/gato.jpg)]) 
 # CFGS DAW M08
 ## Sobre el projecte
 Aquest projecte és la meva primera demo en git
