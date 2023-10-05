@@ -2,7 +2,8 @@
 # CFGS DAW M08
 ## Sobre el projecte
 Aquest projecte és la meva primera demo en git
-## Contribuidors
+## Jose Plaza Jimenez
+https://github.com/JOMAAAAA
 ## Contacte
 **Judit Perea** - ***22jperea@ibadia.cat**
 
