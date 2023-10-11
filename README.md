@@ -10,3 +10,4 @@ https://github.com/JOMAAAAA
 
 Enllaç del projecte:
 https://github.com/juditperea/CFGS-DAW-M08/
+hola buenos dias soy JOMA a ver si ahora funca bien
