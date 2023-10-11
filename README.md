@@ -1,5 +1,5 @@
 ![malenia](https://github.com/juditperea/CFGS-DAW-M08/assets/137046196/cfaf12b2-95eb-4e46-94ee-adc0fc93c949)
-
+ - Aquesta es la meva línia, no me la borris Giuseppe 
 # CFGS DAW M08
 ## Sobre el projecte
 Aquest projecte és la meva primera demo en git
