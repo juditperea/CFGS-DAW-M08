@@ -1,4 +1,4 @@
-![peeposad](https://github.com/juditperea/CFGS-DAW-M08/assets/146119104/38ac1397-66d6-4071-94bf-cff83fb85fd6)
+
 
 # CFGS DAW M08
 ## Sobre el projecte
