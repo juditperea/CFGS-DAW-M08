@@ -1,4 +1,6 @@
-![peeposad](https://github.com/juditperea/CFGS-DAW-M08/assets/146119104/ffe7e747-d087-4c7c-810a-c620688187f5)
+![malenia](https://github.com/juditperea/CFGS-DAW-M08/assets/137046196/cfaf12b2-95eb-4e46-94ee-adc0fc93c949)
+=======
+>>>>>>> Stashed changes
 # CFGS DAW M08
 ## Sobre el projecte
 Aquest projecte és la meva primera demo en git
